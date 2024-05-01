@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mehdi Wahid</h1>
-<h3 align="center">A UX/UI Designer and a Front-end Developer</h3>
+<h3 align="center">Front-End Engineer</h3>
 <img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi-ux-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-ux-dev" /> </p>
